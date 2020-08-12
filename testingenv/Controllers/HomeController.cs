@@ -19,6 +19,7 @@ namespace testingenv.Controllers
             Console.WriteLine("Team 7 Test Pull");
             Console.WriteLine("Tessa");
             Console.WriteLine("Nyein Hsu wai");
+            Console.WriteLine("Zijian");
         }
 
         public IActionResult Index()
