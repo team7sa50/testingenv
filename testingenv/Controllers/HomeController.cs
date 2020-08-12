@@ -20,6 +20,7 @@ namespace testingenv.Controllers
             Console.WriteLine("Tessa");
             Console.WriteLine("Nyein Hsu wai");
             Console.WriteLine("Zijian");
+            Console.WriteLine("Yanshuang");
         }
 
         public IActionResult Index()
