@@ -18,6 +18,7 @@ namespace testingenv.Controllers
             _logger = logger;
             Console.WriteLine("Team 7 Test Pull");
             Console.WriteLine("Tessa");
+            Console.WriteLine("Nyein Hsu wai");
         }
 
         public IActionResult Index()
