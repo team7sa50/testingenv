@@ -18,6 +18,7 @@ namespace testingenv.Controllers
             _logger = logger;
             Console.WriteLine("Team 7 Test Pull");
             Console.WriteLine("Tessa");
+            Console.WriteLine("Keith");
             Console.WriteLine("Nyein Hsu wai");
             Console.WriteLine("Zijian");
             Console.WriteLine("Yanshuang");
